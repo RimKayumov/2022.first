@@ -1,6 +1,4 @@
-package AnimalFactory;
-
-import AnimalFactory.Animal;
+package Patterns._1_FactoryMethod.AnimalFactory;
 
 public class Cat implements Animal {
     @Override

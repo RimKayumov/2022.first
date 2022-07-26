@@ -1,4 +1,4 @@
-package AnimalFactory;
+package Patterns._1_FactoryMethod.AnimalFactory;
 
 public class MouseFactory implements AnimalFactory{
     @Override

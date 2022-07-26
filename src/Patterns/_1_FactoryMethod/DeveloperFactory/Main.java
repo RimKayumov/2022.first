@@ -1,4 +1,4 @@
-package DeveloperFactory;
+package Patterns._1_FactoryMethod.DeveloperFactory;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package AnimalFactory;
+package Patterns._1_FactoryMethod.AnimalFactory;
 
 
 import java.util.Scanner;

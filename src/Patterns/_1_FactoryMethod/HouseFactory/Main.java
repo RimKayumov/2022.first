@@ -1,4 +1,4 @@
-package HouseFactory;
+package Patterns._1_FactoryMethod.HouseFactory;
 
 import java.util.Scanner;
 

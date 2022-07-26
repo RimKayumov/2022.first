@@ -1,4 +1,4 @@
-package HouseFactory;
+package Patterns._1_FactoryMethod.HouseFactory;
 
 public class Flat implements House{
     @Override
